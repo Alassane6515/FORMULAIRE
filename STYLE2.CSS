@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: #8F5A5A;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    }
+   
+button{
+    background-color: #0165AD;
+    position: relative;
+    text-decoration: none;
+    margin-top: 4%;
+    padding: 6px;
+    color: red;
+}
+p{
+    margin-right: 18%;
+  
+}
+.bars{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+    }
+ .conteneur{
+    width: 100%;
+    height: 50%;
+ 
+ }
+ .button{
+    color: red;
+ }
+    
+ @media screen and (max-width: 346px) {
+    .conteneur{
+        width: 90%;
+    }
+    
+ }
+ a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+ }
+ p{
+    margin-left: 20%;
+    text-align: left;
+    color: black;
+ }
